@@ -1,0 +1,13 @@
+div {
+    margin-bottom: 10px;
+}
+
+.warning {
+    color: red;
+}
+
+#scaleMe_ele{
+    height: 20px;
+    background-color: blueviolet;
+    width: 500px;
+}
